@@ -1,4 +1,8 @@
 ## Hi there 👋
+intotheabyss19 here,
+I'm a student and currently pursuing a degree in Bachelors in Technology from NIT Sikkim.
+Very entusiastic about my learning opportunities in the field of Computer Science...
+Especially in the open source domain. Hope I would be able to prove myself to be helpful😄
 
 <!--
 **intotheabyss19/intotheabyss19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
